@@ -1,8 +1,20 @@
+# folder
 simple-react/
 node_modules/
-dist/
+/demo
 
-.DS_Store
-.npmignore
-.vs_code
+# editor
+.vscode
+.idea
+
+# build-tools
 .cache
+
+# development
+.DS_Store
+package-lock.json
+yarn.lock
+
+# production
+dist
+build
