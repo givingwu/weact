@@ -1,5 +1,6 @@
 simple-react/
 node_modules/
+dist/
 
 .DS_Store
 .npmignore
